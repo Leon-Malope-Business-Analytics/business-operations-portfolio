@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Region,Sales_Channel,Product_Category,Product,Quantity,Unit_Price_ZAR,Discount_Rate,Sales_Rep
+ORD-0120,2025-01-01,Pretoria,In-store,Personal Care,Shampoo,9,95.0,0.1,D. Naidoo
+ORD-0035,2025-01-07,Pretoria,Online,Home Essentials,Water Bottle,10,94.05,0.05,D. Naidoo
+ORD-0149,2025-01-09,Durban,In-store,Home Essentials,Storage Box,7,122.55,0.05,F. Petersen
+ORD-0009,2025-01-10,Johannesburg,Online,Personal Care,Toothbrush Set,5,68.25,0.0,C. Mokoena
+ORD-0080,2025-01-13,Durban,In-store,Personal Care,Hand Cream,7,75.05,0.1,E. Smith
+ORD-0146,2025-01-15,Cape Town,Online,Home Essentials,Storage Box,9,135.45,0.1,C. Mokoena
+ORD-0044,2025-01-18,Cape Town,Online,Home Essentials,Water Bottle,9,99.0,0.0,C. Mokoena
+ORD-0100,2025-01-18,Cape Town,Online,Home Essentials,Storage Box,7,122.55,0.0,E. Smith
+ORD-0014,2025-01-26,Pretoria,Online,Personal Care,Toothbrush Set,7,68.25,0.0,A. Dlamini
+ORD-0085,2025-01-29,Johannesburg,In-store,Electronics,USB Cable,10,89.0,0.0,A. Dlamini
+ORD-0003,2025-02-01,Cape Town,In-store,Electronics,Wireless Mouse,3,249.0,0.05,C. Mokoena
+ORD-0072,2025-02-01,Durban,In-store,Stationery,Notebook,6,42.75,0.0,A. Dlamini
+ORD-0069,2025-02-02,Johannesburg,Online,Electronics,USB Cable,10,93.45,0.0,B. Jacobs
+ORD-0013,2025-02-08,Durban,In-store,Home Essentials,Water Bottle,11,99.0,0.0,C. Mokoena
+ORD-0010,2025-02-08,Pretoria,Online,Personal Care,Hand Cream,10,79.0,0.1,B. Jacobs
+ORD-0114,2025-02-12,Durban,In-store,Stationery,Planner,9,93.45,0.0,A. Dlamini
+ORD-0043,2025-02-14,Pretoria,Online,Stationery,Planner,11,89.0,0.05,E. Smith
+ORD-0031,2025-02-14,Cape Town,Online,Personal Care,Hand Cream,3,75.05,0.05,C. Mokoena
+ORD-0091,2025-02-14,Durban,In-store,Personal Care,Shampoo,11,99.75,0.1,E. Smith
+ORD-0083,2025-02-15,Johannesburg,In-store,Stationery,Notebook,4,45.0,0.05,C. Mokoena
+ORD-0056,2025-02-20,Pretoria,Online,Electronics,Desk Lamp,8,329.0,0.1,D. Naidoo
+ORD-0064,2025-02-23,Durban,Online,Electronics,USB Cable,4,89.0,0.0,C. Mokoena
+ORD-0049,2025-02-24,Durban,Online,Home Essentials,Storage Box,8,129.0,0.05,E. Smith
+ORD-0079,2025-03-04,Johannesburg,In-store,Stationery,Pen Set,9,59.0,0.05,B. Jacobs
+ORD-0026,2025-03-07,Cape Town,Online,Electronics,Desk Lamp,10,329.0,0.05,D. Naidoo
+ORD-0108,2025-03-10,Cape Town,Online,Personal Care,Shampoo,8,99.75,0.0,B. Jacobs
+ORD-0144,2025-03-13,Durban,In-store,Stationery,Pen Set,12,61.95,0.1,A. Dlamini
+ORD-0106,2025-03-15,Johannesburg,Online,Personal Care,Hand Cream,9,75.05,0.05,B. Jacobs
+ORD-0126,2025-03-17,Johannesburg,In-store,Electronics,Desk Lamp,6,345.45,0.1,C. Mokoena
+ORD-0118,2025-03-17,Johannesburg,Online,Stationery,Notebook,2,45.0,0.0,E. Smith
+ORD-0047,2025-03-18,Pretoria,In-store,Personal Care,Hand Cream,10,75.05,0.0,F. Petersen
+ORD-0110,2025-03-23,Cape Town,Online,Electronics,Wireless Mouse,3,249.0,0.05,D. Naidoo
+ORD-0078,2025-03-24,Cape Town,Online,Personal Care,Toothbrush Set,6,61.75,0.0,C. Mokoena
+ORD-0150,2025-03-24,Pretoria,In-store,Electronics,Desk Lamp,8,345.45,0.0,D. Naidoo
+ORD-0148,2025-03-27,Pretoria,Online,Home Essentials,Kitchen Towel,3,69.0,0.1,C. Mokoena
+ORD-0008,2025-03-29,Cape Town,In-store,Stationery,Notebook,10,45.0,0.05,C. Mokoena
+ORD-0062,2025-04-09,Durban,In-store,Electronics,Wireless Mouse,12,236.55,0.1,D. Naidoo
+ORD-0011,2025-04-11,Cape Town,Online,Stationery,Notebook,11,42.75,0.0,C. Mokoena
+ORD-0042,2025-04-12,Durban,Online,Electronics,USB Cable,3,84.55,0.0,A. Dlamini
+ORD-0086,2025-04-14,Cape Town,In-store,Electronics,Wireless Mouse,6,249.0,0.1,D. Naidoo
+ORD-0123,2025-04-16,Durban,In-store,Electronics,Desk Lamp,9,345.45,0.0,B. Jacobs
+ORD-0037,2025-04-17,Pretoria,In-store,Stationery,Planner,12,89.0,0.0,D. Naidoo
+ORD-0066,2025-04-19,Cape Town,In-store,Electronics,Wireless Mouse,1,249.0,0.0,C. Mokoena
+ORD-0017,2025-04-19,Cape Town,In-store,Stationery,Pen Set,6,61.95,0.0,B. Jacobs
+ORD-0063,2025-04-24,Pretoria,In-store,Personal Care,Toothbrush Set,6,65.0,0.1,B. Jacobs
+ORD-0055,2025-04-24,Durban,In-store,Stationery,Notebook,11,45.0,0.1,E. Smith
+ORD-0039,2025-05-01,Pretoria,Online,Personal Care,Shampoo,4,99.75,0.1,F. Petersen
+ORD-0075,2025-05-03,Johannesburg,Online,Electronics,Desk Lamp,11,312.55,0.1,C. Mokoena
+ORD-0006,2025-05-03,Cape Town,Online,Home Essentials,Water Bottle,4,99.0,0.05,A. Dlamini
+ORD-0040,2025-05-03,Cape Town,Online,Stationery,Pen Set,4,59.0,0.1,A. Dlamini
+ORD-0002,2025-05-08,Pretoria,In-store,Personal Care,Toothbrush Set,7,65.0,0.05,E. Smith
+ORD-0098,2025-05-09,Durban,Online,Home Essentials,Storage Box,6,135.45,0.0,A. Dlamini
+ORD-0025,2025-05-11,Johannesburg,Online,Electronics,Wireless Mouse,11,261.45,0.05,C. Mokoena
+ORD-0134,2025-05-16,Johannesburg,Online,Stationery,Notebook,1,45.0,0.0,D. Naidoo
+ORD-0020,2025-05-17,Cape Town,Online,Home Essentials,Water Bottle,11,94.05,0.0,F. Petersen
+ORD-0089,2025-05-18,Pretoria,In-store,Stationery,Planner,4,89.0,0.0,C. Mokoena
+ORD-0007,2025-05-22,Durban,Online,Electronics,Desk Lamp,10,329.0,0.05,C. Mokoena
+ORD-0077,2025-05-22,Pretoria,In-store,Home Essentials,Water Bottle,8,99.0,0.1,E. Smith
+ORD-0107,2025-05-23,Johannesburg,Online,Personal Care,Toothbrush Set,9,65.0,0.0,B. Jacobs
+ORD-0028,2025-05-25,Johannesburg,In-store,Personal Care,Hand Cream,10,79.0,0.0,D. Naidoo
+ORD-0125,2025-05-25,Pretoria,Online,Stationery,Notebook,8,42.75,0.0,C. Mokoena
+ORD-0119,2025-05-30,Pretoria,In-store,Personal Care,Toothbrush Set,11,65.0,0.0,D. Naidoo
+ORD-0019,2025-05-31,Durban,In-store,Stationery,Notebook,1,47.25,0.05,A. Dlamini
+ORD-0121,2025-06-02,Johannesburg,In-store,Personal Care,Shampoo,1,95.0,0.0,A. Dlamini
+ORD-0117,2025-06-02,Pretoria,Online,Home Essentials,Storage Box,5,129.0,0.0,B. Jacobs
+ORD-0021,2025-06-04,Cape Town,Online,Electronics,Wireless Mouse,1,261.45,0.0,A. Dlamini
+ORD-0012,2025-06-11,Durban,Online,Home Essentials,Storage Box,7,122.55,0.05,D. Naidoo
+ORD-0024,2025-06-14,Durban,Online,Home Essentials,Kitchen Towel,3,69.0,0.1,A. Dlamini
+ORD-0067,2025-06-17,Cape Town,Online,Electronics,Wireless Mouse,9,249.0,0.0,A. Dlamini
+ORD-0137,2025-06-17,Pretoria,Online,Personal Care,Hand Cream,5,75.05,0.0,E. Smith
+ORD-0096,2025-06-17,Johannesburg,In-store,Personal Care,Hand Cream,4,79.0,0.0,A. Dlamini
+ORD-0104,2025-06-18,Johannesburg,In-store,Home Essentials,Storage Box,1,122.55,0.0,C. Mokoena
+ORD-0050,2025-06-19,Pretoria,In-store,Home Essentials,Kitchen Towel,2,72.45,0.0,C. Mokoena
+ORD-0070,2025-06-20,Johannesburg,Online,Electronics,Desk Lamp,6,329.0,0.1,C. Mokoena
+ORD-0094,2025-06-24,Pretoria,Online,Stationery,Planner,5,93.45,0.05,C. Mokoena
+ORD-0023,2025-06-27,Cape Town,Online,Personal Care,Shampoo,1,95.0,0.0,C. Mokoena
+ORD-0128,2025-07-02,Durban,In-store,Electronics,Wireless Mouse,10,249.0,0.1,E. Smith
+ORD-0116,2025-07-05,Pretoria,Online,Stationery,Pen Set,11,56.05,0.05,E. Smith
+ORD-0073,2025-07-05,Johannesburg,Online,Home Essentials,Water Bottle,4,94.05,0.05,E. Smith
+ORD-0082,2025-07-07,Pretoria,In-store,Home Essentials,Water Bottle,10,99.0,0.0,C. Mokoena
+ORD-0132,2025-07-08,Pretoria,Online,Personal Care,Shampoo,2,99.75,0.05,E. Smith
+ORD-0034,2025-07-09,Pretoria,In-store,Personal Care,Shampoo,5,90.25,0.05,C. Mokoena
+ORD-0005,2025-07-10,Durban,In-store,Home Essentials,Water Bottle,6,94.05,0.1,D. Naidoo
+ORD-0041,2025-07-28,Durban,Online,Personal Care,Hand Cream,3,82.95,0.0,B. Jacobs
+ORD-0004,2025-07-29,Durban,In-store,Home Essentials,Water Bottle,8,99.0,0.1,D. Naidoo
+ORD-0113,2025-07-31,Pretoria,Online,Electronics,Wireless Mouse,4,261.45,0.0,A. Dlamini
+ORD-0101,2025-07-31,Durban,In-store,Electronics,Desk Lamp,10,329.0,0.05,A. Dlamini
+ORD-0129,2025-08-02,Durban,In-store,Personal Care,Hand Cream,11,79.0,0.0,A. Dlamini
+ORD-0122,2025-08-03,Pretoria,In-store,Personal Care,Shampoo,5,95.0,0.05,D. Naidoo
+ORD-0099,2025-08-04,Johannesburg,Online,Stationery,Pen Set,4,59.0,0.05,D. Naidoo
+ORD-0084,2025-08-05,Johannesburg,In-store,Home Essentials,Kitchen Towel,12,69.0,0.1,C. Mokoena
+ORD-0139,2025-08-06,Durban,Online,Home Essentials,Storage Box,6,129.0,0.0,E. Smith
+ORD-0147,2025-08-06,Johannesburg,In-store,Electronics,USB Cable,5,84.55,0.0,A. Dlamini
+ORD-0143,2025-08-07,Johannesburg,In-store,Personal Care,Toothbrush Set,2,65.0,0.0,D. Naidoo
+ORD-0022,2025-08-08,Durban,Online,Home Essentials,Water Bottle,9,94.05,0.0,C. Mokoena
+ORD-0102,2025-08-11,Durban,In-store,Personal Care,Toothbrush Set,11,65.0,0.0,B. Jacobs
+ORD-0060,2025-08-15,Pretoria,In-store,Personal Care,Hand Cream,3,75.05,0.0,F. Petersen
+ORD-0061,2025-08-16,Pretoria,In-store,Home Essentials,Storage Box,3,135.45,0.1,C. Mokoena
+ORD-0046,2025-08-17,Cape Town,Online,Stationery,Pen Set,6,59.0,0.0,E. Smith
+ORD-0065,2025-08-19,Durban,In-store,Stationery,Planner,7,84.55,0.1,E. Smith
+ORD-0015,2025-08-24,Durban,In-store,Electronics,Wireless Mouse,8,249.0,0.0,F. Petersen
+ORD-0048,2025-08-25,Durban,In-store,Electronics,Desk Lamp,4,345.45,0.0,E. Smith
+ORD-0032,2025-08-25,Pretoria,Online,Stationery,Notebook,3,45.0,0.05,E. Smith
+ORD-0131,2025-09-01,Cape Town,In-store,Personal Care,Shampoo,2,90.25,0.0,A. Dlamini
+ORD-0074,2025-09-01,Johannesburg,Online,Stationery,Notebook,8,47.25,0.0,A. Dlamini
+ORD-0054,2025-09-08,Pretoria,In-store,Personal Care,Shampoo,11,95.0,0.0,F. Petersen
+ORD-0030,2025-09-15,Pretoria,In-store,Electronics,USB Cable,1,84.55,0.05,D. Naidoo
+ORD-0033,2025-09-21,Johannesburg,In-store,Electronics,USB Cable,2,89.0,0.0,E. Smith
+ORD-0141,2025-09-22,Johannesburg,In-store,Home Essentials,Kitchen Towel,1,69.0,0.1,B. Jacobs
+ORD-0097,2025-09-22,Johannesburg,In-store,Personal Care,Shampoo,12,90.25,0.0,C. Mokoena
+ORD-0001,2025-09-25,Durban,In-store,Personal Care,Shampoo,6,95.0,0.0,A. Dlamini
+ORD-0027,2025-09-28,Johannesburg,Online,Personal Care,Toothbrush Set,10,65.0,0.0,D. Naidoo
+ORD-0115,2025-10-01,Durban,Online,Personal Care,Hand Cream,12,75.05,0.1,A. Dlamini
+ORD-0051,2025-10-02,Cape Town,Online,Stationery,Planner,8,84.55,0.1,C. Mokoena
+ORD-0135,2025-10-02,Johannesburg,In-store,Home Essentials,Kitchen Towel,8,65.55,0.0,C. Mokoena
+ORD-0087,2025-10-03,Durban,Online,Personal Care,Toothbrush Set,12,65.0,0.0,D. Naidoo
+ORD-0029,2025-10-08,Johannesburg,Online,Stationery,Planner,8,89.0,0.05,C. Mokoena
+ORD-0136,2025-10-14,Pretoria,Online,Stationery,Planner,10,89.0,0.0,C. Mokoena
+ORD-0053,2025-10-20,Cape Town,Online,Electronics,USB Cable,12,93.45,0.0,A. Dlamini
+ORD-0018,2025-10-22,Pretoria,Online,Electronics,USB Cable,8,93.45,0.0,A. Dlamini
+ORD-0016,2025-10-23,Durban,Online,Personal Care,Hand Cream,6,79.0,0.0,B. Jacobs
+ORD-0076,2025-10-30,Johannesburg,Online,Stationery,Planner,3,89.0,0.1,C. Mokoena
+ORD-0059,2025-10-31,Johannesburg,Online,Stationery,Planner,3,89.0,0.05,E. Smith
+ORD-0130,2025-10-31,Durban,Online,Electronics,USB Cable,2,89.0,0.1,E. Smith
+ORD-0133,2025-11-02,Durban,Online,Stationery,Pen Set,8,56.05,0.05,D. Naidoo
+ORD-0093,2025-11-06,Durban,In-store,Personal Care,Toothbrush Set,9,65.0,0.0,B. Jacobs
+ORD-0052,2025-11-08,Durban,In-store,Home Essentials,Water Bottle,10,99.0,0.0,B. Jacobs
+ORD-0036,2025-11-09,Pretoria,In-store,Stationery,Planner,5,93.45,0.0,B. Jacobs
+ORD-0103,2025-11-10,Pretoria,In-store,Home Essentials,Storage Box,11,122.55,0.1,A. Dlamini
+ORD-0140,2025-11-10,Cape Town,Online,Stationery,Notebook,12,45.0,0.1,A. Dlamini
+ORD-0045,2025-11-12,Durban,Online,Stationery,Pen Set,4,56.05,0.0,D. Naidoo
+ORD-0057,2025-11-13,Durban,In-store,Home Essentials,Storage Box,2,129.0,0.0,C. Mokoena
+ORD-0111,2025-11-17,Durban,In-store,Stationery,Notebook,11,45.0,0.1,E. Smith
+ORD-0095,2025-11-18,Durban,In-store,Electronics,Wireless Mouse,1,249.0,0.1,B. Jacobs
+ORD-0142,2025-11-25,Cape Town,Online,Stationery,Notebook,7,47.25,0.1,E. Smith
+ORD-0081,2025-11-26,Cape Town,Online,Stationery,Pen Set,9,59.0,0.0,F. Petersen
+ORD-0105,2025-11-28,Pretoria,In-store,Electronics,USB Cable,9,84.55,0.0,B. Jacobs
+ORD-0071,2025-11-29,Pretoria,Online,Personal Care,Hand Cream,3,82.95,0.05,F. Petersen
+ORD-0109,2025-12-01,Johannesburg,In-store,Stationery,Pen Set,2,56.05,0.0,D. Naidoo
+ORD-0038,2025-12-04,Pretoria,In-store,Electronics,USB Cable,12,89.0,0.1,B. Jacobs
+ORD-0090,2025-12-07,Johannesburg,Online,Electronics,Wireless Mouse,5,249.0,0.05,A. Dlamini
+ORD-0145,2025-12-11,Cape Town,In-store,Personal Care,Hand Cream,5,79.0,0.0,B. Jacobs
+ORD-0124,2025-12-16,Johannesburg,Online,Personal Care,Hand Cream,1,82.95,0.05,F. Petersen
+ORD-0127,2025-12-17,Durban,In-store,Personal Care,Shampoo,1,99.75,0.0,F. Petersen
+ORD-0088,2025-12-22,Cape Town,In-store,Home Essentials,Water Bottle,7,103.95,0.0,A. Dlamini
+ORD-0092,2025-12-26,Durban,In-store,Electronics,Wireless Mouse,5,249.0,0.1,B. Jacobs
+ORD-0138,2025-12-27,Durban,Online,Stationery,Pen Set,8,59.0,0.1,A. Dlamini
+ORD-0112,2025-12-29,Durban,Online,Electronics,Desk Lamp,2,312.55,0.05,D. Naidoo
+ORD-0068,2025-12-31,Cape Town,In-store,Personal Care,Shampoo,7,95.0,0.1,A. Dlamini
+ORD-0058,2025-12-31,Cape Town,Online,Stationery,Pen Set,7,56.05,0.0,F. Petersen
